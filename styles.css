@@ -1,0 +1,18 @@
+/* styles.css*/
+
+*{
+    color: #F5F5F5;
+    background-color: #212121;
+}
+
+h1{
+    color: #FF9800;
+}
+
+h2, h3{
+    color: #FFEB3B;
+}
+
+a{
+    color: #F44336;  
+}
